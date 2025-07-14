@@ -1,3 +1,5 @@
 RENCANA GITHUB
 
 - Upload Program Face Detection menggunakan SAHI
+- Upload Project Pribadi yang sederhana
+- Membiasakan diri dengan Git dan Github
