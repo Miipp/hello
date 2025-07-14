@@ -4,3 +4,6 @@ RENCANA GITHUB
 - Upload Project Pribadi yang sederhana
 - Membiasakan diri dengan Git dan Github
 - Having fun with coding
+- Belajar PHP Framework
+  - Laravel
+  - CodeIgniter
