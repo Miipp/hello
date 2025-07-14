@@ -7,3 +7,6 @@ RENCANA GITHUB
 - Belajar lebih dalam Javascript
   - Vue
   - React
+- Belajar PHP Framework
+  - Laravel
+  - CodeIgniter
