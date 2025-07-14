@@ -6,3 +6,4 @@ RENCANA GITHUB
 - Having fun with coding
 - Belajar lebih dalam Javascript
   - Vue
+  - React
